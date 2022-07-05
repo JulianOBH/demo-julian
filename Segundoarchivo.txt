@@ -1,0 +1,5 @@
+Este archivo
+Lo estoy descargando 
+Con la sincronización
+Mediante el comando 
+Git pull
